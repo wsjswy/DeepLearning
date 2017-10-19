@@ -32,3 +32,6 @@ print(T.I)
 a = 5
 
 print(a**2)
+
+print(A + np.array([100, 200, 300, 400]))
+
